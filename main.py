@@ -10,6 +10,6 @@ for r in range(3):
   f.personalitytraits = int(input("personalitytraits?"))
   f.height = int(input("height?"))
 
-for r in range(3):
+for r in range(3): 
   print(tv[r].name)
 
